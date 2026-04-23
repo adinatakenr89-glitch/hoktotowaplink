@@ -37,7 +37,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href={D.logo} />
         <link rel="canonical" href={'https://' + D.domain + '/'} />
-        <link rel="amphtml" href={'https://' + D.domain + '/amp'} />
+        <link rel="amphtml" href={'https://' + D.domain + '/amp/'} />
         <meta property="og:title" content="HOKTOTO | Login Terbaru: Petualangan Seru di Dunia Monster Pilihan" />
         <meta property="og:description" content="Akses HOKTOTO dengan aman dan cepat. Server premium uptime 99.9%, proteksi data berlapis, dan navigasi intuitif untuk semua pengguna." />
         <meta property="og:image" content={D.logo} />
